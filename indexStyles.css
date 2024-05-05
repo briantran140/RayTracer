@@ -1,0 +1,13 @@
+html,
+body {
+  background-color: black;
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+}
+
+/* See https://www.w3schools.com/css/tryit.asp?filename=trycss3_flexbox_perfect_center */
+.flex-container {
+  display: flex;
+  height: 100%;
+}
